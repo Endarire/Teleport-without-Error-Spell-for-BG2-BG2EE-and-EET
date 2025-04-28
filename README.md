@@ -88,6 +88,9 @@ v16
 This mod was created using the following utilities:
 
 DLTCEP - http://www.dragonlancetc.com/forums/index.php?board=9
+
 Olvyn's Class Spell Tool - https://forums.beamdog.com/discussion/80718/tool-adding-class-or-kit-specific-spells#latest
+
 Near Infinity - http://www.idi.ntnu.no/~joh/ni/
+
 WeiDU - http://weidu.org/main.html#weidu
