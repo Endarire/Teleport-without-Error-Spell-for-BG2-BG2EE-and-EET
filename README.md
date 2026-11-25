@@ -85,7 +85,24 @@ v15
 v16
 - added Olvyn Class Spell tool compatibility for EE games which helps intermod compatibility and prevents the spell from taking a spell slot in Spell.ids.
 
+v17
+- fixed: on BG2:EE and EET the spell is now RZTELEP instead of SPWI730, which The Darkest Day / TDDz also used (GitHub issue #1
+- fixed: the Temple of Rillifane (AR2803) was never offered as a destination
+- fixed: teleporting to the Maze (AR1202) sent Player 5 to AR1102
+- fixed: "Something is disturbing your attempt to teleport" could stay on everywhere after a visit to the beholder lair (AR2400)
+- fixed: on EET the graveyard and Bodhi's lair destinations used the wrong chapter numbers
+- fixed: installation failed on classic BG2 / BGT (Olvyn's Class Spell Tool now runs on the Enhanced Editions only)
+- removed doubled area-script blocks and empty scripts for areas that don't exist
+- English text: apostrophes, typos and the spell description corrected; this readme corrected (shop names, grammar)
+- updated Olvyn's Class Spell Tool to its January 2025 version
+- new optional components: unlimited scrolls at the scroll sellers, vendor list, vendor map markers, remastered-style icons, ESC-skippable cutscenes, ITEM/SPELL SOURCE tags
+- WeiDU updated to the Windows build of 1 March 2026
+
+Thanks to Claude AI for the coding help! Alleluia!
+
 This mod was created using the following utilities:
+
+Claude AI: [Claude](https://claude.ai/new)
 
 DLTCEP - http://www.dragonlancetc.com/forums/index.php?board=9
 
